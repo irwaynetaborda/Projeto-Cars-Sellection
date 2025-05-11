@@ -2,7 +2,7 @@
 Um projeto de carrossel interativo de carros, desenvolvido com **HTML, CSS e JavaScript**, que permite navegar entre diferentes modelos de veículos com uma interface visual agradável.
 
 ## 📸 Preview
-![preview do projeto](preview.png) <!-- Atualize esse caminho se necessário -->
+![preview do projeto](./img/preview.png) <!-- Atualize esse caminho se necessário -->
 
 ## 🛠 Tecnologias Utilizadas
 - HTML
